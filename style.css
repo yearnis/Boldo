@@ -1,0 +1,61 @@
+.home {
+    background-image: url("img/home\ background.png");
+
+}
+
+.button-1st {
+    background-color: aquamarine;
+    border-radius: 15px;
+
+}
+
+.button-2nd {
+    background-color: white;
+}
+
+.button-2nd1 {
+    background-color: #0A2640;
+}
+
+
+.text {
+    color: #0A2640;
+    font-weight: 700;
+}
+
+
+.shadow2 {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+}
+
+.bg-shadow2 {
+    background-color: #0A2640;
+    box-shadow: 0px 4px 32px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+
+
+}
+
+.text- {
+    font-style: Manrope;
+    font-weight: 400;
+}
+
+.shadow2 {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+
+}
+
+.btn-blg {
+    color: #0A2640;
+    border: 2px solid #0A2640;
+}
+
+.our-blog {
+    display: flex;
+    justify-content: center;
+}
